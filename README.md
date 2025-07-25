@@ -21,7 +21,7 @@
 | 이름  | GitHub | 비고 |
 |-----|--------|------|
 | 김민경 | [@yourGitHubID](https://github.com/yourGitHubID) | 스터디장 |
-| 추지인 | [@hong123](https://github.com/hong123) | - |
+| 추지인 | [@cnchoo25](https://github.com/cnchoo25) | - |
 | 하은지 | [@hong123](https://github.com/hong123) | - |
 
 ---
