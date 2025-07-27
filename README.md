@@ -1,6 +1,6 @@
 # Algorithm Study: Introduce
-&nbsp;: This repository is a study log aimed at improving our skills <br>
-&nbsp;&nbsp;&nbsp;through solving algorithm problems and reviewing each other's code. <br>
+&nbsp;: This repository is a study log aimed at improving our skills through solving algorithm problems<br>
+&nbsp;&nbsp;&nbsp; and reviewing each other's code. <br>
 &nbsp;&nbsp;&nbsp;Our goal is to prepare for coding interviews and grow together through  <br>
 &nbsp;&nbsp;&nbsp;consistent practice and constructive feedback ✨ <br><br>
 &nbsp;&nbsp;&nbsp;이 저장소는 알고리즘 문제 풀이와 코드 리뷰를 통해 실력을 향상시키기 위한 스터디 기록 공간입니다.  <br>
