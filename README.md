@@ -1,10 +1,10 @@
 # Algorithm Study: Introduce
 &nbsp;: This repository is a study log aimed at improving our skills through solving algorithm problems<br>
 &nbsp;&nbsp;&nbsp; and reviewing each other's code. <br>
-&nbsp;&nbsp;&nbsp;Our goal is to prepare for coding interviews and grow together through consistent practice<br>
+&nbsp;&nbsp;&nbsp; Our goal is to prepare for coding interviews and grow together through consistent practice<br>
 &nbsp;&nbsp;&nbsp; and constructive feedback ✨ <br><br>
-&nbsp;&nbsp;&nbsp;이 저장소는 알고리즘 문제 풀이와 코드 리뷰를 통해 실력을 향상시키기 위한 스터디 기록 공간입니다.  <br>
-&nbsp;&nbsp;&nbsp;꾸준한 연습과 피드백을 통해 코딩 테스트에 대비하고, 함께 성장하는 것을 목표로 합니다 ✨ 
+&nbsp;&nbsp;&nbsp; 이 저장소는 알고리즘 문제 풀이와 코드 리뷰를 통해 실력을 향상시키기 위한 스터디 기록 공간입니다.  <br>
+&nbsp;&nbsp;&nbsp; 꾸준한 연습과 피드백을 통해 코딩 테스트에 대비하고, 함께 성장하는 것을 목표로 합니다 ✨ 
 <br><br><br>
 
 ## 01. Study Goal 🎯
