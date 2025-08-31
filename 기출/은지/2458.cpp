@@ -13,7 +13,7 @@ vector <int> v1[501];
 vector <int> v2[501];
 
 
-int main() {
+int main() { 
 	std::cin >> N >> M;
 
 	for (int i = 0; i < M; i++) {
