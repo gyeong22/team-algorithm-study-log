@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 	int T;
-	std::cin >> T;
+	std::cin >> T; 
 
 	for (int i = 1; i < T + 1; i++) {
 		int N;
