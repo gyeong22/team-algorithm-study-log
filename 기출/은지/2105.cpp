@@ -3,7 +3,7 @@
 using namespace std;
 
 int T, N;
-int res;
+int res; 
 int arr[21][21];
 int visited[101];
 
